@@ -8,6 +8,10 @@ MySQL
 
 SVG
 
+Raspberry Pi
+
+Arduino
+
 
 
 ## Intro: The Coding Community
